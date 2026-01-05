@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+torch-model-archiver
+torchserve
+streamlit
+requests
+pillow
